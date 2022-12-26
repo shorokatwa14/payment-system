@@ -1,0 +1,9 @@
+		Username : shorok
+		phone Number : 1256544
+		Address : ismaila
+		Company Name : delta
+		Invoice Type : Water
+		Charge Value: 550.0
+		Total Price : 588.5
+		Card Number : 4533555442
+		Date : 15 Dec, 2022
